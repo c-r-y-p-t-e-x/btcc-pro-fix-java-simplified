@@ -1,0 +1,320 @@
+20160322-06:22:04: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:22:04: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:22:05: Initiated logon request
+20160322-06:22:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:22:05: Received logon
+20160322-06:25:09: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:25:09: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:25:11: Initiated logon request
+20160322-06:25:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:25:11: Received logon
+20160322-06:26:55: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:26:55: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:26:57: Initiated logon request
+20160322-06:26:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:26:57: Received logon
+20160322-06:29:44: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:29:44: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:29:45: Initiated logon request
+20160322-06:29:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:29:45: Received logon
+20160322-06:36:12: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:36:12: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:36:13: Initiated logon request
+20160322-06:36:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:36:13: Received logon
+20160322-06:36:55: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:36:55: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:36:56: Initiated logon request
+20160322-06:36:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:36:56: Received logon
+20160322-06:38:01: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:38:01: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:38:02: Initiated logon request
+20160322-06:38:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:38:02: Received logon
+20160322-06:39:22: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:39:22: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:39:24: Initiated logon request
+20160322-06:39:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:39:24: Received logon
+20160322-06:39:56: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:39:56: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:39:58: Initiated logon request
+20160322-06:39:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:39:58: Received logon
+20160322-06:40:42: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:40:42: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:40:43: Initiated logon request
+20160322-06:40:44: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:40:44: Received logon
+20160322-06:41:21: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:41:21: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:41:22: Initiated logon request
+20160322-06:41:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:41:22: Received logon
+20160322-06:41:56: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:41:56: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:41:57: Initiated logon request
+20160322-06:41:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:41:57: Received logon
+20160322-06:42:40: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:42:40: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:42:41: Initiated logon request
+20160322-06:42:41: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:42:41: Received logon
+20160322-06:44:14: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:44:14: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:44:15: Initiated logon request
+20160322-06:44:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:44:15: Received logon
+20160322-06:45:01: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:45:01: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:45:02: Initiated logon request
+20160322-06:45:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:45:02: Received logon
+20160322-06:45:33: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:45:33: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:45:34: Initiated logon request
+20160322-06:45:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:45:34: Received logon
+20160322-06:46:58: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:46:58: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:46:59: Initiated logon request
+20160322-06:47:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:47:00: Received logon
+20160322-06:47:40: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:47:40: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:47:42: Initiated logon request
+20160322-06:47:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:47:42: Received logon
+20160322-06:48:14: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:48:14: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:48:15: Initiated logon request
+20160322-06:48:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:48:15: Received logon
+20160322-06:49:09: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:49:09: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:49:10: Initiated logon request
+20160322-06:49:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:49:11: Received logon
+20160322-06:49:32: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:49:32: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:49:34: Initiated logon request
+20160322-06:49:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:49:34: Received logon
+20160322-06:51:12: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:51:12: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:51:13: Initiated logon request
+20160322-06:51:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:51:13: Received logon
+20160322-06:56:13: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:56:13: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:56:14: Initiated logon request
+20160322-06:56:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:56:15: Received logon
+20160322-06:58:00: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:58:00: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:58:02: Initiated logon request
+20160322-06:58:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-06:58:02: Received logon
+20160322-06:58:49: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:58:49: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-06:58:51: Pending connection not established after 2042 ms.
+20160322-06:58:54: Pending connection not established after 5051 ms.
+20160322-06:58:57: Pending connection not established after 8055 ms.
+20160322-06:59:00: Pending connection not established after 11062 ms.
+20160322-06:59:03: Pending connection not established after 14071 ms.
+20160322-06:59:06: Pending connection not established after 17075 ms.
+20160322-06:59:09: Pending connection not established after 20083 ms.
+20160322-06:59:12: Pending connection not established after 23092 ms.
+20160322-06:59:15: Pending connection not established after 26098 ms.
+20160322-06:59:18: Pending connection not established after 29105 ms.
+20160322-06:59:21: Pending connection not established after 32113 ms.
+20160322-06:59:34: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-06:59:34: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-07:00:41: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-07:00:41: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-07:00:44: Pending connection not established after 2054 ms.
+20160322-07:00:47: Pending connection not established after 5063 ms.
+20160322-07:00:50: Pending connection not established after 8071 ms.
+20160322-07:00:53: Pending connection not established after 11078 ms.
+20160322-07:00:56: Pending connection not established after 14081 ms.
+20160322-07:00:59: Pending connection not established after 17090 ms.
+20160322-07:01:02: Pending connection not established after 20096 ms.
+20160322-07:01:05: Pending connection not established after 23106 ms.
+20160322-07:01:08: Pending connection not established after 26112 ms.
+20160322-07:01:11: Pending connection not established after 29118 ms.
+20160322-07:01:14: Pending connection not established after 32125 ms.
+20160322-07:01:17: Pending connection not established after 35132 ms.
+20160322-07:01:20: Pending connection not established after 38140 ms.
+20160322-07:01:23: Pending connection not established after 41149 ms.
+20160322-07:01:26: Pending connection not established after 44155 ms.
+20160322-07:01:29: Pending connection not established after 47160 ms.
+20160322-07:01:32: Pending connection not established after 50166 ms.
+20160322-07:01:35: Pending connection not established after 53173 ms.
+20160322-07:01:38: Pending connection not established after 56179 ms.
+20160322-07:01:41: Pending connection not established after 59188 ms.
+20160322-07:01:42: java.net.ConnectException: java.net.ConnectException: Connection timed out. (Next retry in 5000 milliseconds)
+20160322-07:01:43: java.net.NoRouteToHostException: java.net.NoRouteToHostException: No route to host (Next retry in 5000 milliseconds)
+20160322-07:01:50: Pending connection not established after 2004 ms.
+20160322-07:01:53: Pending connection not established after 5009 ms.
+20160322-07:01:56: Pending connection not established after 8017 ms.
+20160322-07:01:59: Pending connection not established after 11024 ms.
+20160322-07:02:02: Pending connection not established after 14033 ms.
+20160322-07:02:05: Pending connection not established after 17041 ms.
+20160322-07:02:07: java.net.SocketException: java.net.SocketException: Network is unreachable (Next retry in 5000 milliseconds)
+20160322-07:02:09: Initiated logon request
+20160322-07:02:09: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-07:02:09: Received logon
+20160322-07:51:23: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-07:51:23: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-07:51:24: Initiated logon request
+20160322-07:51:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-07:51:24: Received logon
+20160322-07:52:46: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-07:52:46: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-07:52:48: Initiated logon request
+20160322-07:52:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-07:52:48: Received logon
+20160322-07:54:06: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160322-07:54:06: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160322-07:54:08: Initiated logon request
+20160322-07:54:09: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160322-07:54:09: Received logon
+20160323-09:00:10: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:00:10: Session state is not current; resetting FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:00:10: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:00:13: Initiated logon request
+20160323-09:00:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:00:13: Received logon
+20160323-09:00:59: Initiated logon request
+20160323-09:01:09: Disconnecting: Timed out waiting for logon response
+20160323-09:01:10: Initiated logon request
+20160323-09:02:53: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:02:53: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:03:06: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:03:06: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:03:25: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:03:25: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:04:18: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:04:18: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:07:29: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:07:29: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:07:31: Initiated logon request
+20160323-09:07:31: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:07:31: Received logon
+20160323-09:23:07: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:23:07: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:25:17: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:25:17: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:25:19: Initiated logon request
+20160323-09:25:19: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:25:19: Received logon
+20160323-09:25:52: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:25:52: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:25:53: Initiated logon request
+20160323-09:25:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:25:53: Received logon
+20160323-09:26:15: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:26:15: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:26:17: Initiated logon request
+20160323-09:26:18: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:26:18: Received logon
+20160323-09:35:21: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:35:21: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:35:22: Initiated logon request
+20160323-09:35:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:35:22: Received logon
+20160323-09:35:48: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:35:48: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:35:50: Initiated logon request
+20160323-09:35:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:35:50: Received logon
+20160323-09:36:19: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-09:36:19: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-09:36:24: Initiated logon request
+20160323-09:36:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-09:36:24: Received logon
+20160323-10:17:02: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:17:02: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:17:04: Initiated logon request
+20160323-10:17:04: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:17:04: Received logon
+20160323-10:18:05: Initiated logon request
+20160323-10:18:05: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:18:05: Received logon
+20160323-10:18:17: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:18:17: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:18:18: Initiated logon request
+20160323-10:18:18: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:18:18: Received logon
+20160323-10:19:51: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:19:51: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:19:52: Initiated logon request
+20160323-10:19:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:19:53: Received logon
+20160323-10:20:02: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:20:02: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:20:03: Initiated logon request
+20160323-10:20:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:20:03: Received logon
+20160323-10:21:04: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:21:04: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:21:06: Initiated logon request
+20160323-10:21:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:21:06: Received logon
+20160323-10:21:49: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:21:49: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:21:51: Initiated logon request
+20160323-10:21:51: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:21:51: Received logon
+20160323-10:22:42: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:22:42: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:22:44: Initiated logon request
+20160323-10:22:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:22:46: Received logon
+20160323-10:23:02: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:23:02: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:23:03: Initiated logon request
+20160323-10:23:03: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:23:03: Received logon
+20160323-10:25:05: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:25:05: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:25:09: Initiated logon request
+20160323-10:25:09: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:25:09: Received logon
+20160323-10:26:10: Initiated logon request
+20160323-10:26:10: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:26:10: Received logon
+20160323-10:26:47: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:26:47: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:26:48: Initiated logon request
+20160323-10:26:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:26:48: Received logon
+20160323-10:29:23: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:29:23: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:29:24: Initiated logon request
+20160323-10:29:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:29:24: Received logon
+20160323-10:30:03: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:30:03: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:30:04: Initiated logon request
+20160323-10:30:04: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:30:04: Received logon
+20160323-10:35:16: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:35:16: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:35:18: Initiated logon request
+20160323-10:35:18: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:35:18: Received logon
+20160323-10:35:52: Session FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20160323-10:35:52: Created session: FIX.4.4:a0f4e9c8-925a-47f0-8521-b0f7257385f7->BTCC-PRO-EXCHANGE-SERVER
+20160323-10:35:53: Initiated logon request
+20160323-10:35:53: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:35:53: Received logon
+20160323-10:36:54: Initiated logon request
+20160323-10:36:54: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:36:54: Received logon
+20160323-10:37:55: Initiated logon request
+20160323-10:37:55: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160323-10:37:55: Received logon

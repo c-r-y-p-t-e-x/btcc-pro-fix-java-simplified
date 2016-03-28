@@ -23,14 +23,6 @@ public class MessageProvider {
         return accountInfoRequest;
     }
 
-    public static SecurityListRequest createSecurityListRequest(String reqID)
-    {
-        SecurityListRequest securityListRequest = new SecurityListRequest();
-        securityListRequest.set(new SecurityListRequestType(SecurityListRequestType.SYMBOL));
-        securityListRequest.set(new SecurityReqID(reqID));
-
-        return securityListRequest;
-    }
 
     public static MarketDataRequest createMarketDataRequest(String symbol, char subscriptionRequestType, String mDReqID) {
         MarketDataRequest tickerRequest = new MarketDataRequest();
@@ -71,11 +63,6 @@ public class MessageProvider {
         NewOrderSingle newOrderSingleRequest = new NewOrderSingle();
         newOrderSingleRequest.set(new Account(account));
         newOrderSingleRequest.set(new ClOrdID(clOrdID));
-
-        //如果买入 ,OrdType 为1 price 意思为市价单 买30块钱的币  OrderQty无意义
-        //如果买入, OrdType 为2 price 意思 买币单价为30  OrderQty表示购买数量
-        //如果卖出, OrdType 为1 price 无含义,意思为市价卖,OrderQty为卖出数量
-        //如果卖出, OrdType 为2 price 为卖出单价 OrderQty为卖出数量
         newOrderSingleRequest.set(new Side(side));
         newOrderSingleRequest.set(new Symbol(symbol));
         newOrderSingleRequest.set(new OrdType(ordertype));
@@ -94,7 +81,6 @@ public class MessageProvider {
         OrderCancelRequest orderCancelRequest = new OrderCancelRequest();
 
         orderCancelRequest.set(new ClOrdID(clOrdID));
-//        orderCancelRequest.set(new OrigClOrdID("123546"));
         orderCancelRequest.set(new Side('1'));//必填，但无意义
 
         orderCancelRequest.set(new Account(account));
@@ -104,16 +90,6 @@ public class MessageProvider {
         return orderCancelRequest;
     }
 
-    public static OrderMassStatusRequest createOrderMassStatusRequest(String account, String symbol, String reqID) {
-        OrderMassStatusRequest orderMassStatusRequest = new OrderMassStatusRequest();
-        orderMassStatusRequest.set(new MassStatusReqID(reqID));
-        orderMassStatusRequest.set(new MassStatusReqType(MassStatusReqType.STATUS_FOR_ALL_ORDERS));
-        orderMassStatusRequest.set(new Side(Side.BUY));//必填，但无意义
-
-        orderMassStatusRequest.set(new Account(account));
-        orderMassStatusRequest.set(new Symbol(symbol));//TODO ws message 目前不区分
-        return orderMassStatusRequest;
-    }
 
     public static Message createOrderMassStatus2Request(String account, String symbol, String reqID) {
         Message orderMassStatus2Request = new Message();
@@ -170,11 +146,6 @@ public class MessageProvider {
         orderCancelReplaceRequest.set(new Account(account));
         orderCancelReplaceRequest.set(new Symbol(symbol));
         orderCancelReplaceRequest.set(new OrderID(orderid));
-//        if(ordertype == OrdType.STOP){
-//           orderCancelReplaceRequest.set(new StopPx(price));
-//        }else if(ordertype == OrdType.LIMIT){
-//            orderCancelReplaceRequest.set(new Price(price));
-//        }
         orderCancelReplaceRequest.set(new Price(price));
         orderCancelReplaceRequest.set(new OrderQty(amount));
         return orderCancelReplaceRequest;

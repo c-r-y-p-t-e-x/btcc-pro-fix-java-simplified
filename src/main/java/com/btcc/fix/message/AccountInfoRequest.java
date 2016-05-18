@@ -41,4 +41,8 @@ public class AccountInfoRequest extends Message {
     public void set(quickfix.field.Account value) {
         setField(value);
     }
+
+    public void set(SubAccountInfoRequestType value) {
+        setField(value);
+    }
 }

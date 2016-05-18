@@ -2,6 +2,7 @@ package com.btcc;
 
 import com.btcc.fix.message.AccReqID;
 import com.btcc.fix.message.AccountInfoRequest;
+import com.btcc.fix.message.SubAccountInfoRequestType;
 import quickfix.Group;
 import quickfix.StringField;
 import quickfix.UtcTimeStampField;
@@ -20,6 +21,7 @@ public class MessageProvider {
 
         accountInfoRequest.set(new Account(account));
         accountInfoRequest.set(new AccReqID(accReqID));
+        accountInfoRequest.set(new SubAccountInfoRequestType(SubAccountInfoRequestType.PUSH_SNAPSHOT));
         return accountInfoRequest;
     }
 

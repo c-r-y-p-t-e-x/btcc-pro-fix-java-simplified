@@ -34,8 +34,8 @@ public class App
 		7th request is Cancel/Replace request.
 		 */
 
-		testMessage(MessageProvider.createMarketDataRequest("XBTCNY", SubscriptionRequestType.SNAPSHOT_PLUS_UPDATES, "req114"));
-//		testMessage(MessageProvider.createAccountInfoRequest(accountString, "request001"));
+//		testMessage(MessageProvider.createMarketDataRequest("XBTCNY", SubscriptionRequestType.SNAPSHOT_PLUS_UPDATES, "req114"));
+		testMessage(MessageProvider.createAccountInfoRequest(accountString, "request001"));
 //	    testMessage(MessageProvider.createNewOrderSingle(accountString, "2016031723", Side.SELL, OrdType.LIMIT,3000, 1 , "XBTCNY" , '0'));
 //		testMessage(MessageProvider.createOrderCancelRequest(accountString, "clOrdID123d", "XBTCNY", "2d87530a4e014ec0aa011fba8f4a9d10"));
 //		testMessage(MessageProvider.createOrderStatusRequest(accountString, "XBTCNY", "ccdb61470f7e4fb4902ce68174a4858f", "reqID126"));
